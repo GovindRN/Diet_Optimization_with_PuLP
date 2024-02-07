@@ -5,6 +5,9 @@ The problem statement that we are trying to solve is to come up with a diet plan
 
 The goal of this project is to implement **Optimization using PuLP** python library. 
 
+## Optimization using PuLP
+PuLP is an Linear Programming modeler in Python. A Linear Programming problem is where we are given multiple equations. The value of one of the equations has to be maximized or minimized while the other equations are constraints. Linear Programming is used to solve Optimization problems given a few constraints.
+
 ## Implementation at high level
 
  - Load the data set
